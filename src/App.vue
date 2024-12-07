@@ -1,26 +1,55 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <MyHeader appName="BOOK HAVEN"/> 
+  <BooksList :books=books />
+  <MyFooter />
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import MyHeader from './components/MyHeader.vue';
+import BooksList from './components/BooksList.vue';
+import MyFooter from './components/MyFooter.vue';
 
-export default {
+
+export default{
   name: 'App',
-  components: {
-    HelloWorld
+  components:{
+    MyHeader,
+    BooksList,
+    MyFooter
+  },
+  data(){
+    return {
+      books: []
+    }
+  },
+  methods:{
+    async fetchBooks(){
+      const res = await fetch('https://bookshavennode.onrender.com/api');
+      const data = await res.json()
+      console.log(data)
+      return data.books;
+    }
+  },
+  async created(){
+      this.books = await this.fetchBooks();
   }
 }
 </script>
 
+
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+#app{
+  background-color: #F3E5F5;
 }
 </style>
