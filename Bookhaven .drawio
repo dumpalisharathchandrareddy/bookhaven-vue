@@ -7,7 +7,7 @@
         <mxCell id="HLos1mIRZm7TwcqSez5J-85" value="" style="group;fillColor=none;" parent="1" vertex="1" connectable="0">
           <mxGeometry y="780" width="1200" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="HLos1mIRZm7TwcqSez5J-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#F7F7F7;fontColor=#ffffff;" parent="HLos1mIRZm7TwcqSez5J-85" vertex="1">
+        <mxCell id="HLos1mIRZm7TwcqSez5J-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;fontColor=#ffffff;" parent="HLos1mIRZm7TwcqSez5J-85" vertex="1">
           <mxGeometry y="-50" width="1200" height="150" as="geometry" />
         </mxCell>
         <mxCell id="nu3RnHburqwjy4xu8POM-3" value="&lt;div&gt;&lt;font color=&quot;#333333&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 32px;&quot;&gt;BOOKHAVEN&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 50%;&quot;&gt;&lt;font color=&quot;#333333&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 32px;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font color=&quot;#333333&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;WELCOME TO BOOK HAVEN&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 18px;&quot;&gt;&lt;font color=&quot;#333333&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;&lt;i&gt;Discover Your Next Fav Read To Heart&lt;br&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeColor=none;fontColor=#FFFFFF;" parent="HLos1mIRZm7TwcqSez5J-85" vertex="1">
@@ -106,10 +106,10 @@
         <mxCell id="HLos1mIRZm7TwcqSez5J-93" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry y="1780" width="1200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="HLos1mIRZm7TwcqSez5J-84" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;fillColor=#333333;" parent="HLos1mIRZm7TwcqSez5J-93" vertex="1">
+        <mxCell id="HLos1mIRZm7TwcqSez5J-84" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#333333;fillColor=#F7F7F7;" parent="HLos1mIRZm7TwcqSez5J-93" vertex="1">
           <mxGeometry width="1200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Gbr0lDLeI2ae-f9VhBkv-101" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;Connect&lt;/font&gt;&amp;nbsp; &lt;font color=&quot;#ffffff&quot;&gt;with me on&lt;/font&gt; &lt;font color=&quot;#5aafe8&quot;&gt;LinkedIn&lt;/font&gt; &lt;font color=&quot;#f8f9fa&quot;&gt;or &lt;/font&gt;&lt;font color=&quot;#5aafe8&quot;&gt;Email&lt;font color=&quot;#ffffff&quot;&gt;.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HLos1mIRZm7TwcqSez5J-93" vertex="1">
+        <mxCell id="Gbr0lDLeI2ae-f9VhBkv-101" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Connect&amp;nbsp; with me on &lt;font color=&quot;#999999&quot;&gt;LinkedIn&lt;/font&gt; or &lt;font color=&quot;#999999&quot;&gt;Email&lt;/font&gt;.&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HLos1mIRZm7TwcqSez5J-93" vertex="1">
           <mxGeometry width="1200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jl-aKupMv36PsG1tpd38-26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
@@ -124,7 +124,7 @@
         <mxCell id="Jl-aKupMv36PsG1tpd38-49" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/128x128/mimetypes/image.png" vertex="1" parent="Jl-aKupMv36PsG1tpd38-47">
           <mxGeometry x="64" y="9.43" width="170" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="Jl-aKupMv36PsG1tpd38-50" value="&lt;font color=&quot;#007bff&quot;&gt;&lt;b&gt;Book Name&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Jl-aKupMv36PsG1tpd38-47">
+        <mxCell id="Jl-aKupMv36PsG1tpd38-50" value="&lt;b&gt;Book Name&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Jl-aKupMv36PsG1tpd38-47">
           <mxGeometry x="40" y="164.6590909090909" width="200" height="35.284090909090914" as="geometry" />
         </mxCell>
         <mxCell id="Jl-aKupMv36PsG1tpd38-51" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Used machine learning techniques to recognize human activity via sensors.&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Jl-aKupMv36PsG1tpd38-47">
@@ -151,7 +151,7 @@
         <mxCell id="Jl-aKupMv36PsG1tpd38-59" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/128x128/mimetypes/image.png" vertex="1" parent="Jl-aKupMv36PsG1tpd38-57">
           <mxGeometry x="64" y="9.43" width="170" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="Jl-aKupMv36PsG1tpd38-60" value="&lt;font color=&quot;#007bff&quot;&gt;&lt;b&gt;Book Name&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Jl-aKupMv36PsG1tpd38-57">
+        <mxCell id="Jl-aKupMv36PsG1tpd38-60" value="&lt;b&gt;Book Name&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Jl-aKupMv36PsG1tpd38-57">
           <mxGeometry x="40" y="164.6590909090909" width="200" height="35.284090909090914" as="geometry" />
         </mxCell>
         <mxCell id="Jl-aKupMv36PsG1tpd38-61" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Used machine learning techniques to recognize human activity via sensors.&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Jl-aKupMv36PsG1tpd38-57">
