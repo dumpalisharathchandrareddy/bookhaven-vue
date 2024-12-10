@@ -49,6 +49,33 @@
         <mxCell id="Jl-aKupMv36PsG1tpd38-7" value="4/5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="HLos1mIRZm7TwcqSez5J-16" vertex="1">
           <mxGeometry x="195" y="320.4336363636363" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="fj7bPf8suZ-612rlpNnT-1" value="" style="group;rounded=0;" vertex="1" connectable="0" parent="HLos1mIRZm7TwcqSez5J-16">
+          <mxGeometry width="280" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="fj7bPf8suZ-612rlpNnT-2" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelPadding=0;arcSize=4;" vertex="1" parent="fj7bPf8suZ-612rlpNnT-1">
+          <mxGeometry x="-1" width="281" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="fj7bPf8suZ-612rlpNnT-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/128x128/mimetypes/image.png" vertex="1" parent="fj7bPf8suZ-612rlpNnT-1">
+          <mxGeometry x="55" y="9.43" width="170" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="fj7bPf8suZ-612rlpNnT-4" value="&lt;b&gt;Book Name&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fj7bPf8suZ-612rlpNnT-1">
+          <mxGeometry x="40" y="164.6590909090909" width="200" height="35.284090909090914" as="geometry" />
+        </mxCell>
+        <mxCell id="fj7bPf8suZ-612rlpNnT-5" value="&lt;div align=&quot;left&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Used machine learning techniques to recognize human activity via sensors.&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fj7bPf8suZ-612rlpNnT-1">
+          <mxGeometry x="9.5" y="199.94" width="260" height="62.73" as="geometry" />
+        </mxCell>
+        <mxCell id="fj7bPf8suZ-612rlpNnT-6" value="Author Name" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fj7bPf8suZ-612rlpNnT-1">
+          <mxGeometry x="180" y="269.43" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fj7bPf8suZ-612rlpNnT-7" value="Genre" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fj7bPf8suZ-612rlpNnT-1">
+          <mxGeometry x="20" y="319.4336363636363" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fj7bPf8suZ-612rlpNnT-8" value="12 / 01/2001" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fj7bPf8suZ-612rlpNnT-1">
+          <mxGeometry x="104.5" y="320.43" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fj7bPf8suZ-612rlpNnT-9" value="4/5" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="fj7bPf8suZ-612rlpNnT-1">
+          <mxGeometry x="195" y="320.4336363636363" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="Jl-aKupMv36PsG1tpd38-8" value="" style="group;rounded=0;" parent="HLos1mIRZm7TwcqSez5J-87" vertex="1" connectable="0">
           <mxGeometry x="460" y="40.56636363636369" width="280" height="380" as="geometry" />
         </mxCell>
@@ -118,11 +145,11 @@
         <mxCell id="Jl-aKupMv36PsG1tpd38-47" value="" style="group;rounded=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="90" y="1359.9963636363636" width="280" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="Jl-aKupMv36PsG1tpd38-48" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelPadding=0;arcSize=4;" parent="Jl-aKupMv36PsG1tpd38-47" vertex="1">
+        <mxCell id="Jl-aKupMv36PsG1tpd38-48" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelPadding=0;arcSize=4;fillColor=#F7F7F7;" parent="Jl-aKupMv36PsG1tpd38-47" vertex="1">
           <mxGeometry x="-1" width="281" height="380" as="geometry" />
         </mxCell>
         <mxCell id="Jl-aKupMv36PsG1tpd38-49" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/128x128/mimetypes/image.png" parent="Jl-aKupMv36PsG1tpd38-47" vertex="1">
-          <mxGeometry x="54.5" y="9.43" width="170" height="170" as="geometry" />
+          <mxGeometry x="55" y="9.43" width="170" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Jl-aKupMv36PsG1tpd38-50" value="&lt;b&gt;Book Name&lt;/b&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Jl-aKupMv36PsG1tpd38-47" vertex="1">
           <mxGeometry x="40" y="164.6590909090909" width="200" height="35.284090909090914" as="geometry" />
@@ -145,7 +172,7 @@
         <mxCell id="Jl-aKupMv36PsG1tpd38-57" value="" style="group;rounded=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="460" y="1359.9963636363636" width="280" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="Jl-aKupMv36PsG1tpd38-58" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelPadding=0;arcSize=4;" parent="Jl-aKupMv36PsG1tpd38-57" vertex="1">
+        <mxCell id="Jl-aKupMv36PsG1tpd38-58" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelPadding=0;arcSize=4;fillColor=#F7F7F7;" parent="Jl-aKupMv36PsG1tpd38-57" vertex="1">
           <mxGeometry x="-1" width="281" height="380" as="geometry" />
         </mxCell>
         <mxCell id="Jl-aKupMv36PsG1tpd38-59" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/128x128/mimetypes/image.png" parent="Jl-aKupMv36PsG1tpd38-57" vertex="1">
@@ -172,7 +199,7 @@
         <mxCell id="Jl-aKupMv36PsG1tpd38-67" value="" style="group;rounded=0;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="840" y="1359.9963636363636" width="280" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="Jl-aKupMv36PsG1tpd38-68" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelPadding=0;arcSize=4;" parent="Jl-aKupMv36PsG1tpd38-67" vertex="1">
+        <mxCell id="Jl-aKupMv36PsG1tpd38-68" value="" style="rounded=1;whiteSpace=wrap;html=1;glass=0;labelPadding=0;arcSize=4;fillColor=#F7F7F7;" parent="Jl-aKupMv36PsG1tpd38-67" vertex="1">
           <mxGeometry x="-1" width="281" height="380" as="geometry" />
         </mxCell>
         <mxCell id="Jl-aKupMv36PsG1tpd38-69" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/crystalproject/128x128/mimetypes/image.png" parent="Jl-aKupMv36PsG1tpd38-67" vertex="1">
