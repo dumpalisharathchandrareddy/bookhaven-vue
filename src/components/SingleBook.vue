@@ -46,6 +46,7 @@
         color: rgb(231, 62, 102);
         min-height: 3rem;
         overflow:auto;
+        grid-area: auto;
     }
     .author {
         text-align: right;
