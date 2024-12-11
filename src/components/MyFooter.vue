@@ -1,5 +1,5 @@
 <template>
-    <footer class="footer">
+  <footer class="footer">  <!-- footer class -->
       <div class="footer-content">
         <p class="contact-info">
           <strong>Contact Us:</strong> 

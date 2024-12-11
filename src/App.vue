@@ -50,6 +50,6 @@ body {
 }
 
 #app{
-  background-color: #F3E5F5;
+  background-color: #c9d3ee;
 }
 </style>
