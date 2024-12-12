@@ -1,5 +1,6 @@
 <template>
     <div class="books-list">
+        // iterates the books
         <div v-for="book of books" :key="book.title" > 
             <SingleBook :book=book />
         </div>

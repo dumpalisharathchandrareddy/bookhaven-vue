@@ -31,6 +31,7 @@
   <script>
   export default {
     name: "MyHeader",
+    // Receives data from other component
     props: {
       appName: String,
     },

@@ -36,14 +36,18 @@
         border-radius: 8px;
         margin-bottom: 1rem;
         /* border: solid #3F51B5; */
-        background-color: #70b0ba;
+        /* background-color: #3f6fffb5; */
+        /* background-color: #3495b8; */
+        background-color: #ffffff; /* White */
+border: 1px solid #dcdcdc; /* Light gray border */
+
         
     }
     .title {
         text-align: center;
         margin: 0.5rem 0;
         text-transform: uppercase;
-        color: rgb(231, 62, 102);
+        color: #0066cc;
         min-height: 3rem;
         overflow:auto;
         grid-area: auto;
@@ -82,8 +86,8 @@
     }
 
     .genre, .publication_date, .rating_review{
-        color: #000;
-        background-color: #FFF;
+        color:  #ffffff;
+        background-color: #2b8ecc;
         padding: 5px 10px;
         border-radius: 5px;
         font-size: 0.8rem;

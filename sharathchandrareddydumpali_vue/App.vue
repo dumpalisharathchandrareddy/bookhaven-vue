@@ -50,6 +50,8 @@ body {
 }
 
 #app{
-  background-color: #c9d3ee;
+  background-color: #f0f4f8; 
+  color: #333333; /* Dark gray */
+
 }
 </style>

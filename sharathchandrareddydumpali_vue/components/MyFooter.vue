@@ -19,7 +19,7 @@
   
   <style scoped>
   .footer {
-    background-color: #324c62;
+    background-color: #003366;
     color: white;
     padding: 20px;
     text-align: center;
