@@ -5,6 +5,7 @@
       <h1 class="apptagline">DISCOVER YOUR NEXT FAV READ TO HEART</h1>
   
       <!-- Nav Bar -->
+      <!-- Took reference from W3 schools menu bar creation -->
       <div class="nav-bar">
         <ul class="nav">
           <li class="nav-item"><a href="#home">Home</a></li>
